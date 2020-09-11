@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Scientific Models and Machine Learning (SMMaL)"
-title: "Scientific Models and Machine Learning (SMMaL)"
+urltitle:  "Mathematical Models and Deep Learning (MMDL)"
+title: "Mathematical Models and Deep Learning (MMDL)"
 categories: nips, neurips, vancouver, canada, workshop, mathematics, machine learning, smal, 2019, neurips19
 permalink: /
 <!-- favicon: /static/img/embodiedqa/favicon.png -->
@@ -13,8 +13,8 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Scientific Models and Machine Learning (SMMaL)</h1></center>
-    <center><h2>NeurIPS 2019 Workshop, Vancouver, Canada</h2></center>
+    <center><h1>Mathematical Models and Deep Learning (MMDL)</h1></center>
+    <center><h2>ICLR 2021 Workshop, Wien, Austria</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Friday, 13th December, 08:30 AM to 06:30 PM,
       Room: to be specified
