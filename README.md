@@ -1,5 +1,5 @@
-# neurips2019smal.github.io
+# iclr2021mmdl.github.io
 
-Webpage source files for SMaL workshop at NeurIPS 2019
+Webpage source files for MMDL workshop at ICLR 2021
 
-https://neurips2019smal.github.io
+https://iclr2021mmdl.github.io
